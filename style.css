@@ -1,0 +1,737 @@
+body {
+    background-color: rgb(255, 255, 255);
+ }
+ 
+ div.d1 {
+    position: absolute;
+    left: 200px;
+    top: 10px;
+    width: 900;
+    height: 50;
+	font-family: 'Montserrat';
+    font-size: 23;
+}
+ div.d2 {
+    position: absolute;
+    left: 205px;
+    top: 30px;
+    width: 900;
+    height: 10;
+	font-family: 'Montserrat';
+    font-size: 15;
+	color: rgb(236, 90, 110);
+ }
+ div.d3 {
+	position: absolute;
+    left: 700px;
+    top: 30px;
+    height: 10;
+	font-family: 'Montserrat';
+    font-size: 15;
+	color: rgb(183, 183, 183);
+ }
+ div.d4 {
+	position: absolute;
+    left: 900px;
+    top: 25px;
+    height: 10;
+	font-family: 'Montserrat';
+    font-size: 15;
+	color: rgb(183, 183, 183);
+ }
+ div.d5 {
+	position: relative;
+	top: 50px;
+	height: 30px;
+	background-color: rgb(54, 64, 74);
+ }
+ div.d6 {
+	 position:relative;
+	 left: 210px;
+	 width: 135px;
+	 height: 30px;
+	 background-color: rgb(254, 72, 66);
+ }
+ div.d7 {
+	position:relative;
+	 left: 6px;
+	 top: 5px;
+	 color: white;
+	 font-family: 'Montserrat';
+	 font-size: 13;
+ }
+ div.d8 {
+	 position: relative;
+	 left:350px;
+	 top: -23px;
+	 color: white;
+	 font-family: 'Montserrat';
+	 font-size: 13;
+ }
+ div.d9 {
+	 position: relative;
+	 left:426px;
+	 top: -39px;
+	 color: white;
+	 font-family: 'Montserrat';
+	 font-size: 13;
+ }
+ div.d10 {
+	 position: relative;
+	 left:507px;
+	 top: -55px;
+	 color: white;
+	 font-family: 'Montserrat';
+	 font-size: 13;	 
+ }
+ div.d11 {
+	  position: relative;
+	 left:576px;
+	 top: -71px;
+	 color: white;
+	 font-family: 'Montserrat';
+	 font-size: 13;	 
+ }
+ div.d12 {
+	 position: relative;
+	 top: 50px;
+	 
+ }
+ div.d13 {
+	 position: absolute;
+	 top: 344px;
+	 height: 186px;
+	 width: 293px;
+	 background-color: rgb(252, 72, 73);
+ }
+ div.d14 {
+	 position: absolute;
+	 top: 344px;
+	 height: 186px;
+	 width: 293px;
+	 left: 301px;
+	 background-color: rgb(95, 102, 112);
+ }
+ div.d15 {
+	  position: absolute;
+	 top: 344px;
+	 height: 186px;
+	 width: 293px;
+	 left: 594px;
+	 background-color: rgb(252, 108, 108);
+ }
+ div.d16 {
+	 position: absolute;
+	 top: 344px;
+	 height: 186px;
+	 width: 293px;
+	 left: 885px;
+	 background-color: rgb(95, 102, 112);
+ }
+ div.d17 {
+	 position: absolute;
+	 top: 530px;
+	 height: 186px;
+	 width: 293px;
+	 background-color: rgb(95, 102, 112);
+ }
+ div.d18 {
+	 position: absolute;
+	 top: 530px;
+	 height: 186px;
+	 width: 293px;
+	 left: 301px;
+	 background-color: rgb(252, 108, 108);
+ }
+ div.d19 {
+	 position: absolute;
+	 top: 530px;
+	 height: 186px;
+	 width: 291px;
+	 left: 594px;
+	 background-color: rgb(95, 102, 112);
+ }
+ div.d20 {
+	 position: absolute;
+	 top: 530px;
+	 height: 186px;
+	 width: 293px;
+	 left: 885px;
+	 background-color: rgb(252, 108, 108);
+ }
+ div.d21 {
+	 position: absolute;
+    left: 250px;
+    top: 130px;
+	font-family: 'Montserrat';
+    font-size: 40;
+	color: white;
+	font-weight: bold;
+ }
+ div.d22 {
+	 position: relative;
+	 top: 259px;
+	left: 281px;
+ }
+ div.d23 {
+	 position: absolute;
+	 top: 716px;
+ }
+ div.d24 {
+	  position: relative;
+    left: 650px;
+    top: -300px;
+	font-family: 'Montserrat';
+    font-size: 13;
+	color: black;
+ }
+ div.d25 {
+	 position: relative;
+    left: 630px;
+    top: -298px;
+	font-family: 'Montserrat';
+    font-size: 13;
+	color: black;
+ }
+ div.d26 {
+	  position: relative;
+    left: 800px;
+    top: -296px;
+	font-family: 'Montserrat';
+    font-size: 13;
+	color: black;
+ }
+ div.d27 {
+	 position: relative;
+	 top: -270px;
+	 left: 700px;
+	 font-family: 'Montserrat';
+ }
+ div.d28 {
+	 position: relative;
+	 top: -265px;
+	 left: 700px;
+	 font-family: 'Montserrat';
+ }
+ div.d29 {
+	 position: relative;
+	 top: -260px;
+	 left: 700px;
+	 font-family: 'Montserrat';
+ }
+ div.d30 {
+	 position: relative;
+	 top: -255px;
+	 left: 700px;
+	 font-family: 'Montserrat';
+ }
+ div.d31 {
+	 position: relative;
+	 top: -250px;
+	 left: 700px;
+	 font-family: 'Montserrat';
+ }
+ div.d32 {
+	 position: relative;
+	 top: -245px;
+	 left: 700px;
+	 font-family: 'Montserrat';
+ }
+ div.d33 {
+	 position: relative;
+	 top: -240px;
+	 left: 700px;
+	 font-family: 'Montserrat';
+ }
+ div.d34 {
+	  position: relative;
+	 top: -403px;
+	 left: 845px;
+	 font-family: 'Montserrat';
+ }
+ div.d35 {
+	  position: relative;
+	 top: -398px;
+	 left: 845px;
+	 font-family: 'Montserrat';
+ }
+ div.d36 {
+	   position: relative;
+	 top: -393px;
+	 left: 845px;
+	 font-family: 'Montserrat';
+ }
+ div.d37 {
+	   position: relative;
+	 top: -388px;
+	 left: 845px;
+	 font-family: 'Montserrat';
+ }
+ div.d38 {
+	   position: relative;
+	 top: -383px;
+	 left: 845px;
+	 font-family: 'Montserrat';
+ }
+ div.d39 {
+	   position: relative;
+	 top: -378px;
+	 left: 845px;
+	 font-family: 'Montserrat';
+ }
+ div.d40 {
+	   position: relative;
+	 top: -373px;
+	 left: 845px;
+	 font-family: 'Montserrat';
+ }
+ div.d41 {
+	   position: relative;
+	 top: -536px;
+	 left: 989px;
+	 font-family: 'Montserrat';
+ }
+ div.d42 {
+	  position: relative;
+	 top: -531px;
+	 left: 989px;
+	 font-family: 'Montserrat';
+ }
+ div.d43 {
+	  position: relative;
+	 top: -526px;
+	 left: 989px;
+	 font-family: 'Montserrat';
+ }
+ div.d44 {
+	  position: relative;
+	 top: -521px;
+	 left: 989px;
+	 font-family: 'Montserrat';
+ }
+ div.d45 {
+	  position: relative;
+	 top: -516px;
+	 left: 989px;
+	 font-family: 'Montserrat';
+ }
+ div.d46 {
+  position: relative;
+	 top: -511px;
+	 left: 989px;
+	 font-family: 'Montserrat';
+ }
+ div.d47 {
+	  position: relative;
+	 top: -506px;
+	 left: 989px;
+	 font-family: 'Montserrat';
+ }
+  div.d48 {
+	  position:relative;
+	  height: 35px;
+	  width: 120px;
+	  background-color: rgb(57, 63, 68);
+	  top: -94px;
+	  left: 800px;
+	  
+  }
+  div.d49 {
+	  position: relative;
+	  font-family: 'Montserrat';
+	  COLOR: white;
+	  top: 7px;
+	  left: 7px;
+	  
+  }
+  div.d50 {
+	  position: relative;
+	  font-family: 'Montserrat';
+	  COLOR: black;
+	  font-size: 30;
+	  font-weight: bold;
+	 text-align: center;
+	 top: -50px;
+	 
+	  
+  }
+  div.d51 {
+	 position: relative;
+	 font-family: 'Montserrat';
+	 color: black;
+	 font-size: 13;
+	 top: -30px;
+	 left: 140px;
+  }
+  div.d52 {
+	  position: relative;
+	 font-family: 'Montserrat';
+	 color: black;
+	 font-size: 13;
+	 top: -30px;
+	 left: 140px;
+  }
+  div.d53 {
+	  position: relative;
+	 font-family: 'Montserrat';
+	 color: black;
+	 font-size: 13;
+	 top: -30px;
+	 left: 140px;
+  }
+  div.d54 {
+	  position: relative;
+	 font-family: 'Montserrat';
+	 color: black;
+	 font-size: 13;
+	 top: -30px;
+	 left: 140px;
+  }
+  div.d55 {
+	  position: relative;
+	 font-family: 'Montserrat';
+	 color: black;
+	 font-size: 13;
+	 top: -30px;
+	 left: 140px;
+  }
+  div.d56 {
+	  position: relative;
+	 font-family: 'Montserrat';
+	 color: black;
+	 font-size: 13;
+	 top: 0px;
+	 left: 140px;
+  }
+  div.d57 {
+	  position: relative;
+	 font-family: 'Montserrat';
+	 color: black;
+	 font-size: 13;
+	 top: 0px;
+	 left: 140px;
+  }
+  div.d58 {
+	  position: relative;
+	 font-family: 'Montserrat';
+	 color: black;
+	 font-size: 13;
+	 top: 0px;
+	 left: 140px;
+  }
+  div.d59 {
+	   position: relative;
+	 font-family: 'Montserrat';
+	 color: black;
+	 font-size: 13;
+	 top: 0px;
+	 left: 140px;
+  }
+  div.d60 {
+	  position: relative;
+	 font-family: 'Montserrat';
+	 color: black;
+	 font-size: 13;
+	 top: 0px;
+	 left: 140px;
+  }
+  div.d61 {
+	  position: relative;
+	  height: 50px;
+	  background-color: rgb(252, 72, 73);
+	  top: 40px;
+  }
+   div.d62 {
+	 position: relative;
+	 font-family: 'Montserrat';
+	 color: white;
+	 font-size: 20;
+	 top: 12px;
+	 left: 120px;
+  }
+   div.d63 {
+	 position: relative;
+	 font-family: 'Montserrat';
+	 color: white;
+	 font-size: 20;
+	 top: -10px;
+	 left: 780px;
+  }
+   div.d64 {
+	  position: relative;
+	  height: 50px;
+	  background-color: rgb(54, 64, 74);
+	  top: 40px;
+  }
+   div.d65 {
+	 position: relative;
+	 font-family: 'Montserrat';
+	 color: white;
+	 font-size: 13;
+	 top: 10px;
+	 left: 120px;
+  }
+   div.d66 {
+	 position: relative;
+	 font-family: 'Montserrat';
+	 color: white;
+	 font-size: 13;
+	 top: -4px;
+	 left: 800px;
+  }
+   div.d67 {
+	    position: relative;
+	 font-family: 'Montserrat';
+	 color: red;
+	 font-size: 13;
+	 top: -19px;
+	 left: 885px;
+  }
+   div.d68 {
+	position: relative;
+	top: -370px;
+	left: 850px;
+  }
+   div.d69 {
+	position: absolute;
+	top: 390px;
+	left: 89px;
+	color: white;
+	font-family: 'Montserrat';
+	font-weight: bold;
+	font-size: 20;
+  }
+   div.d70 {
+	   position: absolute;
+	top: 435px;
+	left: 90px;
+	color: white;
+	font-family: 'Montserrat';
+	font-size: 15;
+  }
+   div.d71 {
+	      position: absolute;
+	top: 450px;
+	left: 102px;
+	color: white;
+	font-family: 'Montserrat';
+	font-size: 15;
+  }
+   div.d72 {
+	position: absolute;
+	top: 205px;
+	left: 202px;
+	color: white;
+	font-family: 'Montserrat';
+	font-size: 17;
+	font-weight: bold
+  }
+   div.d73 {
+	   position: absolute;
+	top: 225px;
+	left: 235px;
+	color: white;
+	font-family: 'Montserrat';
+	font-size: 17;
+	font-weight: bold;
+  }
+   div.d74 {
+	   position: absolute;
+	   background-color: #FF3333;
+	   height: 80px;
+	   width: 2px;
+	   z-index: 3;
+	   top: 190px;
+	   left: 370px;
+  }
+   div.d75 {
+	   position: absolute;
+	   top: 220px;
+	   color: white;
+	   left:  510px;
+	   font-weight: bold;
+	   font-family: 'Montserrat';
+	   font-size: 17;
+  }
+   div.d76 {
+	    position: absolute;
+	   background-color: #FF3333;
+	   height: 80px;
+	   width: 2px;
+	   z-index: 3;
+	   top: 190px;
+	   left: 770px;
+  }
+   div.d77 {
+	position: absolute;
+	top: 204px;
+	left: 842px;
+	color: white;
+	font-family: 'Montserrat';
+	 font-weight: bold;
+	 font-size: 17;
+  }
+   div.d78 {
+	position: absolute;
+	top: 227px;
+	left: 827px;
+	color: white;
+	font-family: 'Montserrat';
+	 font-weight: bold;
+	 font-size: 17;
+  }
+   div.d79 {
+	   position: absolute;
+	   top: 550px;
+	   left: 130px;
+  }
+   div.d80 {
+	position: absolute;
+	top: 610px;
+	left: 90px;
+	color: white;
+	font-family: 'Montserrat';
+	 font-weight: bold;
+	 font-size: 17;
+  }
+   div.d81 {
+	   position: absolute;
+	top: 650px;
+	left: 100px;
+	color: white;
+	font-family: 'Montserrat';
+	font-size: 13;
+  }
+   div.d82 {
+	   position: absolute;
+	   top: 550px;
+	   left: 423px;
+  }
+   div.d83 {
+	position: absolute;
+	top: 610px;
+	left: 380px;
+	color: white;
+	font-family: 'Montserrat';
+	 font-weight: bold;
+	 font-size: 17;
+  }
+   div.d84 {
+	     position: absolute;
+	top: 650px;
+	left: 390px;
+	color: white;
+	font-family: 'Montserrat';
+	font-size: 13;
+  }
+  div.d85 {
+	   position: absolute;
+	   top: 550px;
+	   left: 720px;
+  }
+   div.d86 {
+	position: absolute;
+	top: 610px;
+	left: 680px;
+	color: white;
+	font-family: 'Montserrat';
+	 font-weight: bold;
+	 font-size: 17;
+  }
+   div.d87 {
+	     position: absolute;
+	top: 650px;
+	left: 690px;
+	color: white;
+	font-family: 'Montserrat';
+	font-size: 13;
+  }
+  div.d88 {
+	   position: absolute;
+	   top: 550px;
+	   left: 1020px;
+  }
+   div.d89 {
+	position: absolute;
+	top: 610px;
+	left: 980px;
+	color: white;
+	font-family: 'Montserrat';
+	 font-weight: bold;
+	 font-size: 17;
+  }
+   div.d90 {
+	     position: absolute;
+	top: 650px;
+	left: 990px;
+	color: white;
+	font-family: 'Montserrat';
+	font-size: 13;
+  }
+  div.d91 {
+	   position: absolute;
+	   top: 370px;
+	   left: 423px;
+  }
+   div.d92 {
+	position: absolute;
+	top: 430px;
+	left: 380px;
+	color: white;
+	font-family: 'Montserrat';
+	 font-weight: bold;
+	 font-size: 17;
+  }
+   div.d93 {
+	position: absolute;
+	top: 475px;
+	left: 390px;
+	color: white;
+	font-family: 'Montserrat';
+	font-size: 13;
+   }
+	div.d94 {
+	 position: absolute;
+	 top: 370px;
+	 left: 723px;
+  }
+   div.d95 {
+	position: absolute;
+	top: 430px;
+	left: 680px;
+	color: white;
+	font-family: 'Montserrat';
+	 font-weight: bold;
+	 font-size: 17;
+  }
+   div.d96 {
+	     position: absolute;
+	top: 475px;
+	left: 690px;
+	color: white;
+	font-family: 'Montserrat';
+	font-size: 13;
+   }
+   div.d97 {
+	 position: absolute;
+	 top: 370px;
+	 left: 1023px;
+  }
+   div.d98 {
+	position: absolute;
+	top: 430px;
+	left: 980px;
+	color: white;
+	font-family: 'Montserrat';
+	 font-weight: bold;
+	 font-size: 17;
+  }
+   div.d99 {
+	     position: absolute;
+	top: 475px;
+	left: 990px;
+	color: white;
+	font-family: 'Montserrat';
+	font-size: 13;
+   }
+  
